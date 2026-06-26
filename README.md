@@ -1,6 +1,4 @@
-# garevalo_42Madrid
-
-## Related repositories.
+# Choose one 👇🏾
 
 <a href="https://github.com/byemidev/libft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byemidev&repo=libft&theme=catppuccin_mocha" />
