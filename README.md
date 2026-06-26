@@ -5,6 +5,7 @@
 <a href="https://github.com/byemidev/libft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byemidev&repo=libft&theme=catppuccin_mocha" />
 </a>
+---
 <a href="https://github.com/byemidev/born2beroot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byemidev&repo=born2beroot&theme=catppuccin_mocha" />
 </a>
